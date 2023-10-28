@@ -1,9 +1,9 @@
-#Основи GIT. Частина 2
+# Основи GIT. Частина 2
 
-Коміти та гілки
-Pull request
-git merge та його види
-git pull vs git fetch
-git rebase
-git cherry-pick
-git tag
+- Коміти та гілки
+- Pull request
+- it merge та його види
+- git pull vs git fetch
+- git rebase
+- git cherry-pick
+- git tag
