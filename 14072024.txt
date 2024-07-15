@@ -2,5 +2,3 @@ new data -> approve
 new data origin main 1507
 new data local main 1507
 new data local taras_shevchenko 1507
-data 1
-data 2
